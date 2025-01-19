@@ -199,17 +199,3 @@ VALUES
 (2, 4, 25);
 
 
-SELECT * FROM client;
-SELECT * FROM pjClient;
-SELECT * FROM pfClient;
-SELECT * FROM product;
-SELECT * FROM payment;
-SELECT * FROM orders;
-SELECT * FROM productStorage;
-SELECT * FROM supplier;
-SELECT * FROM seller;
-SELECT * FROM productOrder;
-SELECT * FROM productSeller;
-SELECT * FROM storageLocation;
-SELECT * FROM productSupplier;
-SELECT * FROM delivery;
