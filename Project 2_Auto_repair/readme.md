@@ -10,7 +10,7 @@ Tracks customer information and their associated vehicles.
 * Parts Tracking: Tracks parts used in repairs, their cost, and quantity.
 * Mechanic Assignment: Associates specialized mechanics with work orders. 
 
-## Data Model Entities:
+## Data Model Entities
 
 * Customer: Linked to vehicles. 
 * Vehicle: Linked to work orders.
