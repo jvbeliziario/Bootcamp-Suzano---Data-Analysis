@@ -1,6 +1,6 @@
-## Designing an E-commerce Dashboard with Power BI Using DAX Formulas
+# Designing an E-commerce Dashboard with Power BI Using DAX Formulas
 
-# Project Description
+## Project Description
 In this project challenge, a data model was created based on the Star Schema, using the Financial Sample table as the foundation for generating fact and dimension tables. The Financial Sample table contains the following information:
 
 * Sales segment
