@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The project involves the creation of a MySQL instance on the Azure platform, where a database named Azure_Company was configured. Following the creation of this database, data such as employee information, departments, and projects were inserted into the database. Subsequently, this data was integrated into Power BI through a connection to the MySQL database. During the integration process, a careful selection of the tables to be loaded was made, followed by adjustments to data types and the application of filters to ensure that the information was presented clearly and consistently in the final report. The scripts used for this stage are available at the following links:
+The project involves the creation of a MySQL instance on the Azure platform, where a database named Azure_Company was configured. Following the creation of this database, data such as employee information, departments, and projects were inserted into the database. Subsequently, this data was integrated into Power BI through a connection to the MySQL database. During the integration process, a careful selection of the tables to be loaded was made, followed by adjustments to data types and the application of filters to ensure that the information was presented clearly and consistently in the final report. 
 
 Database Creation Script: This script creates all the necessary tables in the Azure_Company database, including tables for employees, departments, and projects, as well as defining their primary and foreign keys.
 Data Insertion Script
