@@ -1,0 +1,3 @@
+# Creating a Sales and Profit Report with Data Analytics Using Power BI
+## Project Description
+This project challenge focused on developing an additional page for an existing report, specifically designed to provide detailed insights into sales and profits. The goal was to enhance the report by incorporating key metrics, visualizations, and analytics that highlight performance trends, profitability, and areas for improvement. By leveraging Power BI's capabilities, the new page aims to deliver a clear and actionable overview of sales and profit data, enabling informed decision-making and strategic planning.
