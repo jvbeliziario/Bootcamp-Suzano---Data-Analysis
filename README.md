@@ -13,6 +13,9 @@ Each project will include the dataset, the PBIX file, and a README file describi
 | Data Analytics with Power BI  |[Designing an E-commerce Dashboard with Power BI Using DAX Formulas](https://app.powerbi.com/view?r=eyJrIjoiMDVkMDljYjQtYTUxZC00MDVkLTg3NjItNjAzNzk0NmJlYmU4IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9)  |
 | Data Analytics with Power BI  | [Creating a Corporative Dashboard with MySQL and Azure integration](https://app.powerbi.com/view?r=eyJrIjoiOTE0Nzc4YzItMzM5ZS00MTAwLTgxY2EtMzAxZmRkYzc5OGRiIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9) |
 | Data Analytics with Power BI  | Sales Dashboard with Power BI using Star Schema |
+| Data Analytics with Power BI  |[Creating a Management Dashboard for Decision-Making with Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDA1MDExYzgtMDIwMS00MzViLWJkOGItNDE1MTZkNTk0ZmY5IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9) |
+
+
 
 
 
